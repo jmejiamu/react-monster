@@ -1,2 +1,2 @@
 # react-monster
-react and use of an API 
+React and use of an API 
